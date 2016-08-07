@@ -1,18 +1,18 @@
-typography_spectrum: 0.4969517197459936
+typography_spectrum: 0.006626043235883117
 content_rating:
   adult: false
 color:
-  brandStrength: 0.9863961259834468
-  lightness: 0.7332754114177078
-  saturation: 0.9691561597865075
-  rhythmicContrast: 0.9172457195818424
+  brandStrength: 0.4227346491534263
+  lightness: 0.814566602697596
+  saturation: 0.6319580071140081
+  rhythmicContrast: 0.1518639239948243
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.03485178994014859
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.08141217660158873
 author:
   name: bob chaney
   email: ttf3289@gmail.com
