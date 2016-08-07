@@ -1,0 +1,14 @@
+layout_spectrum: 0.03485178994014859
+typography_spectrum: 0.4969517197459936
+color:
+  brandStrength: 0.9863961259834468
+  lightness: 0.7332754114177078
+  saturation: 0.9691561597865075
+  rhythmicContrast: 0.9172457195818424
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+name: driving by wire
