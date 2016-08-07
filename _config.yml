@@ -1,5 +1,6 @@
-layout_spectrum: 0.03485178994014859
 typography_spectrum: 0.4969517197459936
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9863961259834468
   lightness: 0.7332754114177078
@@ -11,4 +12,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.03485178994014859
+author:
+  name: bob chaney
+  email: ttf3289@gmail.com
 name: driving by wire
